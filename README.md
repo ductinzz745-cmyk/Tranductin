@@ -1,2 +1,4 @@
-# Tranductin TRI TUE NHAN TAO VA UNG DUNG
+# Tranductin 
+TRI TUE NHAN TAO VA UNG DUNG NHOM 2
+
 
